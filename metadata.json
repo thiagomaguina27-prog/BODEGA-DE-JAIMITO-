@@ -1,0 +1,6 @@
+{
+  "name": "LA BODEGA DE JAIMITO – Sistema de Gestión de Bodega",
+  "description": "Sistema completo e intuitivo para la gestión comercial, ventas POS, inventario, finanzas, fiados, compras y delivery para una bodega en Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
